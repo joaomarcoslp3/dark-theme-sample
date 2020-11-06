@@ -12,9 +12,6 @@
 - TypeScript
 - Styled-Components
 
-### Back-End
-- Run `yarn` in the `backend` folder to install all dependencies;
-- Run `yarn start` to up the server;
 
 ### Front-End 
 - Run `yarn` in the `frontend` folder to install all dependencies;
